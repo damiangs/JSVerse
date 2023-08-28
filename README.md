@@ -4,4 +4,4 @@ Collection of JavScript Codes!
 # Projects
 List of projects:
 
-1. Text Encryptor
+![project screenshot](screenshot.png)
