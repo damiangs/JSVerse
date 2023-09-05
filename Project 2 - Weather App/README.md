@@ -14,5 +14,6 @@ A simple and intuitive weather application that provides current weather informa
 ## Screenshots
 
 ![Project Screenshot](screenshot.png)
+![Project Screenshot 2](screenshot2.png)
 
 
