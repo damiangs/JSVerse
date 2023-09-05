@@ -5,3 +5,4 @@ Collection of JavScript Codes!
 List of projects:
 
 1. Text Encryptor
+2. Weather App
