@@ -1,5 +1,5 @@
 # JSVerse
-Collection of JavScript Codes!
+Collection of JavaScript Codes!
 
 # Projects
 List of projects:
