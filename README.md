@@ -8,3 +8,4 @@ List of projects:
 2. Weather App
 3. To-Do List App
 4. Calculator
+5. Pixel Art Generator
