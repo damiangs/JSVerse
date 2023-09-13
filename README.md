@@ -9,3 +9,4 @@ List of projects:
 3. To-Do List App
 4. Calculator
 5. Pixel Art Generator
+6. Password Generator
