@@ -4,7 +4,7 @@ The XO Game project is a classic implementation of the timeless Tic-Tac-Toe game
 
 ## Features
 
-**Classic Gameplay:**: Experience the familiar and enjoyable gameplay of Tic-Tac-Toe, suitable for players of all skill levels.
+**Classic Gameplay**: Experience the familiar and enjoyable gameplay of Tic-Tac-Toe, suitable for players of all skill levels.
 
 **Two-Player Mode**:  Play against a friend locally in a head-to-head battle of Xs and Os.
 
